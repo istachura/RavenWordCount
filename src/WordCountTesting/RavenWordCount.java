@@ -51,11 +51,4 @@ package WordCountTesting;
 	   }
 	   in.close();
 	   }
-
-	public int compare;
-
-	public int countAnd(String string) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-	}
+}
